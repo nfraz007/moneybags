@@ -28,7 +28,7 @@
     </div>
     <div class="footer-copyright">
       <div class="container">
-      Created by <a class="brown-text text-lighten-3" href="http://nfraz.co.nf" target="_blank">Nazish Fraz</a>
+      Created by <a class="brown-text text-lighten-3" href="http://nfraz.co.in" target="_blank">Nazish Fraz</a>
       </div>
     </div>
   </footer>
